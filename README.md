@@ -11,15 +11,26 @@ Personal favourites :)
 
 [Choose A License](https://choosealicense.com/) _Need help choosing a license for your open source project? Go here_
 
+[Technical Details a Programmer of a Web Application Should Know](https://softwareengineering.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before) _An extensive list of things any web developer should be aware of_
+
+[Airbnb's Javascript Style Guide](https://github.com/airbnb/javascript)
+
+[Astral](https://app.astralapp.com) _Organize and tag your Github stars_
+
 -----------
 
 ## Programming Docs, Guides, Cheatsheets, and Learning Resources
 ### General / Misc
+
+[Technical Details a Programmer of a Web Application Should Know](https://softwareengineering.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
+
 [Choose A License](https://choosealicense.com/) _Need help choosing a license for your open source project? Go here_
 
 [Cheatogprahy](https://cheatography.com/tag/programming/) _All sorts of cheatsheets_
 
 [Git Cheat Sheet (PDF)](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
+
+[Oh Shit Git](https://ohshitgit.com/) _How to fix common Git mistakes_
 
 [VS Code Cheat Sheet](https://www.shortcutfoo.com/app/dojos/vscode-win/cheatsheet) _AKA Keyboard Shortcuts_
 
@@ -31,8 +42,27 @@ Personal favourites :)
 
 [Brief(ish) explanation of how https works](https://www.blinkingcaret.com/2017/01/18/brief-ish-explanation-of-how-https-works/)
 
+[CodingCoach](https://mentors.codingcoach.io/) _Find a mentor_
+
+[Netlify's Storybook](https://storybook.netlify.com)
+
+[Github Student Developer Pack](https://education.github.com/pack/offers)
+
+[Hosting Static React Websites on AWS S3 (& CloudFront) with SSL](https://hackernoon.com/hosting-static-react-websites-on-aws-s3-cloudfront-with-ssl-924e5c134455)
+
+[Learning to Code (Reddit Post)](https://www.reddit.com/r/learnprogramming/comments/g98sn4/spent_the_last_100_days_learning_to_code_and_told/)
+
+[How to stay motivated when learning to code](https://www.reddit.com/r/learnprogramming/comments/9rjhm0/how_to_actually_stay_motivated_to_learn_how_to/)
+
 ### Javascript
 [jQuery API](https://api.jquery.com/)
+
+[Best Practices for Express App Structure](https://www.terlici.com/2014/08/25/best-practices-express-structure.html)
+
+[Airbnb's Javascript Style Guide](https://github.com/airbnb/javascript)
+
+### React
+[Global state using only React Hooks with the Context API](https://codeburst.io/global-state-with-react-hooks-and-context-api-87019cc4f2cf)
 
 ### Testing Frameworks
 [Jest website](https://jestjs.io/en/)
@@ -70,12 +100,41 @@ Personal favourites :)
 
 [PostgreSQL dumb](https://www.postgresql.org/docs/current/backup-dump.html) _Backing up a postgres database_
 
+[What Is The Order Of Execution Of An SQL Query?](https://www.designcise.com/web/tutorial/what-is-the-order-of-execution-of-an-sql-query)
+
 -----------
 
 ## Programming Tools
-### General Website / Webapp Tools
+### General Website / Webapp Tools / API
+[Code Climate](https://codeclimate.com/)
+
+[CircleCI](https://circleci.com/)
+
+[TravisCI](https://travis-ci.com/)
+
+[Stripe](https://stripe.com) _Online Payment Processor_
+
+[Frozen Mountain](https://www.frozenmountain.com/)
+
+[ThreeJS](https://threejs.org/)
+
+[Loading.io](https://loading.io/css) _CSS Animations_
+
+[Astral](https://app.astralapp.com) _Organize and tag your Github stars_
+
+[EditorConfig](https://editorconfig.org/)
+
+[StackEdit](https://stackedit.io/) _In-browser Markdown Editor_
+
 ### Planning (ERD's, Charting, Graphing)
+[DB Diagram](https://dbdiagram.io/)
+
+[Gloomaps](https://www.gloomaps.com/) _Easily create sitemaps_
+
+[Diagrams.net](https://app.diagrams.net/)
+
 ### Monitoring 
+[Airbrake](https://airbrake.io/)
 
 -----------
 
@@ -103,7 +162,15 @@ Personal favourites :)
 ### Public Trackers
 ### Private Tackers
 ### Misc
+[r/piracy](https://www.reddit.com/r/Piracy/)
 
+[r/plexshares](https://www.reddit.com/r/plexshares/) _Get access to other peoples' Plex servers_
+
+[r/CrackWatch](https://www.reddit.com/r/CrackWatch/)
+
+[r/Invites](https://www.reddit.com/r/Invites/) _Get invites to private trackers_
+
+[r/trackers](https://www.reddit.com/r/trackers/)
 
 -----------
 
@@ -112,6 +179,7 @@ Personal favourites :)
 -----------
 
 ## Job Hunting
+[interviewing.io Youtube Channel](https://www.youtube.com/channel/UCNc-Wa_ZNBAGzFkYbAHw9eg) _Recorded technical interviews from bug companies such as Google, Microsoft, Linkedin, etc._
 
 -----------
 
@@ -124,6 +192,7 @@ Personal favourites :)
 -----------
 
 ## Internet Archival Projects
+[Youtube-dl Command (Reddit Thread)](https://www.reddit.com/r/DataHoarder/comments/c6fh4x/after_hoarding_over_50k_youtube_videos_here_is/)
 
 -----------
 
@@ -147,16 +216,87 @@ Personal favourites :)
 
 [Princeton Algorithms](https://algs4.cs.princeton.edu/home/)
 
+[Open Source CS Degree](https://github.com/ForrestKnight/open-source-cs)
+
 ### Physical
+[Lighthouse Labs](https://www.lighthouselabs.ca/) _I can personally vouch for this school. They offer great courses and bootcamps.
+
+[Codecore](https://codecore.ca/)
 
 -----------
 
-## Business
+## Business / Startup Resources
+[App and Flow](https://appandflow.com/)
+
+-----------
+
+## Reddit Communities
+### Programming Related
+[r/badcode](https://www.reddit.com/r/badcode/)
+
+[r/css_irl](https://www.reddit.com/r/css_irl/)
+
+[r/hacking](https://www.reddit.com/r/hacking/)
+
+[r/INAT](https://www.reddit.com/r/INAT/) _Find a team of developers_
+
+[r/javascript](https://www.reddit.com/r/javascript/)
+
+[r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
+
+[r/linuxquestions](https://www.reddit.com/r/linuxquestions/)
+
+[r/node](https://www.reddit.com/r/node/)
+
+[r/web_design](https://www.reddit.com/r/web_design/)
+
+[r/webdev](https://www.reddit.com/r/webdev/)
+
+### Other
+[r/borrow](https://www.reddit.com/r/borrow/) _Borrow money from strangers_
+
+[r/DataHoarder](https://www.reddit.com/r/DataHoarder/)
+
+[r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/)
+
+[r/forhire](https://www.reddit.com/r/forhire/)
+
+[r/FREE](https://www.reddit.com/r/FREE/)
+
+[r/opendirectories](https://www.reddit.com/r/opendirectories/)
+
+[r/random_acts_of_pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) _Strangers buying eachother pizza_
+
+[r/SubSumulatorGPT2](https://www.reddit.com/r/SubSimulatorGPT2/) _A subreddit that is 100% AI Bots. Really interesting_
+
+[r/technology](https://www.reddit.com/r/technology/)
+
+[r/techsupport](https://www.reddit.com/r/techsupport/)
+
+[r/unixporn](https://www.reddit.com/r/unixporn/)
 
 -----------
 
 ## Random Fun Websites
+[This is Why I'm Broke](https://www.thisiswhyimbroke.com/) _Unique things you can buy online_
+
+[The Useless Web](https://theuselessweb.com/)
+
+[Websites to waste a lot of time on](https://www.reddit.com/r/AskReddit/comments/fy2j5o/whats_a_good_website_to_waste_a_whole_night_on/) _Reddit Thread_
 
 -----------
 
 ## Misc
+[Battlesnake](https://play.battlesnake.com/) _Program AI's to compete in competitions_
+
+[FOAAS](https://www.foaas.com/) _Fuck Off As A Service_
+
+[Color-themes](http://color-themes.com) _Editor Themes_
+
+[Themer](https://themer.dev/) _Create themes for development environments_
+
+[The Poster Database](https://theposterdb.com/) _Alternative Movie Posters_
+
+[Spreadsheet for budgeting](https://www.reddit.com/r/personalfinance/comments/dp7pww/i_mde_a_spreadsheet_for_people_who_dont_know_how/) _Reddit thread_
+
+[Windows Keyboard Shortcuts](https://www.reddit.com/r/AskReddit/comments/a22ivq/what_is_the_most_useful_windows_keyboard_shortcut/) _Reddit Thread_
