@@ -126,6 +126,10 @@ Personal favourites :)
 
 [StackEdit](https://stackedit.io/) _In-browser Markdown Editor_
 
+[Wireline](https://www.wireline.io/) _A peer-to-peer network for open source applications_
+
+[IP-tracker](https://www.ip-tracker.org/)
+
 ### Planning (ERD's, Charting, Graphing)
 [DB Diagram](https://dbdiagram.io/)
 
@@ -139,10 +143,14 @@ Personal favourites :)
 -----------
 
 ## Cloud storage
+[Storj](https://storj.io/) _Decentralized Cloud Storage_
+
 
 -----------
 
 ## File Uploading / Sharing
+[Firefox Send](https://send.firefox.com/) _Secure, encrypted file sharing_
+
 [postimage](https://postimages.org/)
 
 -----------
@@ -184,6 +192,9 @@ Personal favourites :)
 -----------
 
 ## Cryptocurrency
+[Coinswitch](https://coinswitch.co/)
+
+
 
 -----------
 
@@ -192,6 +203,10 @@ Personal favourites :)
 -----------
 
 ## Internet Archival Projects
+[the-eye](https://the-eye.eu/public/)
+
+[The Wayback Machine](https://archive.org/web/)
+
 [Youtube-dl Command (Reddit Thread)](https://www.reddit.com/r/DataHoarder/comments/c6fh4x/after_hoarding_over_50k_youtube_videos_here_is/)
 
 -----------
@@ -219,14 +234,20 @@ Personal favourites :)
 [Open Source CS Degree](https://github.com/ForrestKnight/open-source-cs)
 
 ### Physical
-[Lighthouse Labs](https://www.lighthouselabs.ca/) _I can personally vouch for this school. They offer great courses and bootcamps.
+[Lighthouse Labs](https://www.lighthouselabs.ca/) _I can personally vouch for this school. They offer great courses and bootcamps._
 
 [Codecore](https://codecore.ca/)
+
+[The Firehouse Project](http://thefirehoseproject.com/)
 
 -----------
 
 ## Business / Startup Resources
 [App and Flow](https://appandflow.com/)
+
+[Ownr](https://www.ownr.co/)
+
+[Granted](https://granted.ca/)
 
 -----------
 
@@ -284,6 +305,14 @@ Personal favourites :)
 
 [Websites to waste a lot of time on](https://www.reddit.com/r/AskReddit/comments/fy2j5o/whats_a_good_website_to_waste_a_whole_night_on/) _Reddit Thread_
 
+[Bash.org](http://www.bash.org/?latest) _IRC Logs_
+
+[Musenet](https://openai.com/blog/musenet/) _An openai network that can generate music compositions_
+
+[Rave](https://rave.dj/mix) _An AI that mixes to songs together_
+
+[Motherfucking Website](http://motherfuckingwebsite.com/)
+
 -----------
 
 ## Misc
@@ -300,3 +329,25 @@ Personal favourites :)
 [Spreadsheet for budgeting](https://www.reddit.com/r/personalfinance/comments/dp7pww/i_mde_a_spreadsheet_for_people_who_dont_know_how/) _Reddit thread_
 
 [Windows Keyboard Shortcuts](https://www.reddit.com/r/AskReddit/comments/a22ivq/what_is_the_most_useful_windows_keyboard_shortcut/) _Reddit Thread_
+
+[Invoice Generator](https://invoice-generator.com)
+
+[Hackernews](https://news.ycombinator.com/)
+
+[Trakt](https://trakt.tv)
+
+[Tildes](https://tildes.net/) _Similar to Reddit, but smaller_
+
+[Capterra](https://www.capterra.com/) _Find better software_
+
+[Emkeis Mailers](https://emkei.cz/) _Send emails from fake addresses_
+
+[Fake Mail Generator](http://www.fakemailgenerator.com/)
+
+[Fake Name Generator](https://www.fakenamegenerator.com/)
+
+[Bulk Resize Photos](https://bulkresizephotos.com/)
+
+[Randomize Spotify Playlist](http://thoseannoyingdupes.com/randomizer/)
+
+[Pexels](https://www.pexels.com/) _Stock Photos_
