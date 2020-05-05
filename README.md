@@ -28,10 +28,6 @@ Personal favourites :)
 
 [Cheatogprahy](https://cheatography.com/tag/programming/) _All sorts of cheatsheets_
 
-[Git Cheat Sheet (PDF)](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
-
-[Oh Shit Git](https://ohshitgit.com/) _How to fix common Git mistakes_
-
 [VS Code Cheat Sheet](https://www.shortcutfoo.com/app/dojos/vscode-win/cheatsheet) _AKA Keyboard Shortcuts_
 
 [Mozilla - MDN Web docs](https://developer.mozilla.org/en-US/)
@@ -53,6 +49,11 @@ Personal favourites :)
 [Learning to Code (Reddit Post)](https://www.reddit.com/r/learnprogramming/comments/g98sn4/spent_the_last_100_days_learning_to_code_and_told/)
 
 [How to stay motivated when learning to code](https://www.reddit.com/r/learnprogramming/comments/9rjhm0/how_to_actually_stay_motivated_to_learn_how_to/)
+
+### Git
+[Git Cheat Sheet (PDF)](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
+
+[Oh Shit Git](https://ohshitgit.com/) _How to fix common Git mistakes_
 
 ### Javascript
 [jQuery API](https://api.jquery.com/)
@@ -86,7 +87,6 @@ Personal favourites :)
 
 [Active Record Basics](https://edgeguides.rubyonrails.org/active_record_basics.html)
 
-### Java
 ### CSS
 [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
