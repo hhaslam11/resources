@@ -21,6 +21,7 @@ Personal favourites :)
 
 ## Programming Docs, Guides, Cheatsheets, and Learning Resources
 ### General / Misc
+[Dev.to](https://dev.to/)
 
 [Technical Details a Programmer of a Web Application Should Know](https://softwareengineering.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
 
@@ -130,6 +131,12 @@ Personal favourites :)
 
 [IP-tracker](https://www.ip-tracker.org/)
 
+[Site Analyzer](https://www.site-analyzer.com/)
+
+[Get Site control](https://getsitecontrol.com) _Website Forms_
+
+[Varvy](https://varvy.com/) _SEO Tool_
+
 ### Planning (ERD's, Charting, Graphing)
 [DB Diagram](https://dbdiagram.io/)
 
@@ -140,10 +147,14 @@ Personal favourites :)
 ### Monitoring 
 [Airbrake](https://airbrake.io/)
 
+[Uptime Robot](https://uptimerobot.com)
+
 -----------
 
 ## Cloud storage
 [Storj](https://storj.io/) _Decentralized Cloud Storage_
+
+[Google Drive](https://drive.google.com)
 
 
 -----------
@@ -194,11 +205,30 @@ Personal favourites :)
 ## Cryptocurrency
 [Coinswitch](https://coinswitch.co/)
 
+[Coinbase](https://www.coinbase.com)
 
+[Livecoin](https://www.livecoin.net)
 
 -----------
 
 ## Computer Hardware
+[Newegg](https://www.newegg.ca/)
+
+[Memory Express](https://www.memoryexpress.com/)
+
+[Anker](https://www.anker.com/)
+
+[Orico](www.orico.cc)
+
+[V1Tech](https://www.v1tech.com/) _Custom GPU backplates and Cable Sleeves_
+
+[IFixIt](https://www.ifixit.com/)
+
+[Savant Pc](https://www.savantpcs.com/)
+
+[PNY](https://www.pny.com/)
+
+[Google Store](https://store.google.com/)
 
 -----------
 
@@ -313,6 +343,12 @@ Personal favourites :)
 
 [Motherfucking Website](http://motherfuckingwebsite.com/)
 
+[Varianto:25](https://varianto25.com/) _Programmer Merch_
+
+[Make it look like I'm working ](https://codegolf.stackexchange.com/questions/30322/make-it-look-like-im-working)
+
+[Progress Quest](http://progressquest.com/)
+
 -----------
 
 ## Misc
@@ -351,3 +387,7 @@ Personal favourites :)
 [Randomize Spotify Playlist](http://thoseannoyingdupes.com/randomizer/)
 
 [Pexels](https://www.pexels.com/) _Stock Photos_
+
+[Evernote](https://evernote.com/)
+
+[Github Shop](https://github.myshopify.com/)
