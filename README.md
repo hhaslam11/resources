@@ -156,6 +156,13 @@ Personal favourites :)
 
 [Google Drive](https://drive.google.com)
 
+[Dropbox](https://www.dropbox.com)
+
+[One Drive](https://onedrive.live.com)
+
+[Box](https://www.box.com)
+
+[MediaFire](https://www.mediafire.com/)
 
 -----------
 
