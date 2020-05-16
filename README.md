@@ -177,26 +177,6 @@ Personal favourites :)
 
 -----------
 
-## Pirate Scene
-### Public Trackers
-### Private Tackers
-### Misc
-[r/piracy](https://www.reddit.com/r/Piracy/)
-
-[r/plexshares](https://www.reddit.com/r/plexshares/) _Get access to other peoples' Plex servers_
-
-[r/CrackWatch](https://www.reddit.com/r/CrackWatch/)
-
-[r/Invites](https://www.reddit.com/r/Invites/) _Get invites to private trackers_
-
-[r/trackers](https://www.reddit.com/r/trackers/)
-
------------
-
-## IRL Networking
-
------------
-
 ## Job Hunting
 [interviewing.io Youtube Channel](https://www.youtube.com/channel/UCNc-Wa_ZNBAGzFkYbAHw9eg) _Recorded technical interviews from bug companies such as Google, Microsoft, Linkedin, etc._
 
@@ -238,6 +218,8 @@ Personal favourites :)
 [The Wayback Machine](https://archive.org/web/)
 
 [Youtube-dl Command (Reddit Thread)](https://www.reddit.com/r/DataHoarder/comments/c6fh4x/after_hoarding_over_50k_youtube_videos_here_is/)
+
+[files.afu.se](http://files.afu.se/Downloads/)
 
 -----------
 
