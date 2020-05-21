@@ -139,6 +139,8 @@ Personal favourites :)
 
 [XP.css](https://botoxparty.github.io/XP.css/) _CSS Framework to look like Windows XP (or Windows 98)
 
+[RegExr](https://regexr.com/) _A tool for writing regex_
+
 ### Planning (ERD's, Charting, Graphing)
 [DB Diagram](https://dbdiagram.io/)
 
