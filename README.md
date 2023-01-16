@@ -41,8 +41,6 @@ Personal favourites :)
 
 [CodingCoach](https://mentors.codingcoach.io/) _Find a mentor_
 
-[Netlify's Storybook](https://storybook.netlify.com)
-
 [Github Student Developer Pack](https://education.github.com/pack/offers)
 
 [Hosting Static React Websites on AWS S3 (& CloudFront) with SSL](https://hackernoon.com/hosting-static-react-websites-on-aws-s3-cloudfront-with-ssl-924e5c134455)
