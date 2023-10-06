@@ -131,7 +131,7 @@ Personal favourites :)
 
 [Varvy](https://varvy.com/) _SEO Tool_
 
-[XP.css](https://botoxparty.github.io/XP.css/) _CSS Framework to look like Windows XP (or Windows 98)
+[XP.css](https://botoxparty.github.io/XP.css/) _CSS Framework to look like Windows XP (or Windows 98)_
 
 [RegExr](https://regexr.com/) _A tool for writing regex_
 
@@ -312,6 +312,106 @@ Personal favourites :)
 [r/techsupport](https://www.reddit.com/r/techsupport/)
 
 [r/unixporn](https://www.reddit.com/r/unixporn/)
+
+-----------
+
+## Downloads
+### Audio books & ebooks
+
+[Librivox](https://librivox.org/)
+
+[Overdrive](https://www.overdrive.com/)
+
+[Standard Ebooks](https://standardebooks.org/)
+
+### Audio/music
+
+[Freestockmusic](https://www.freestockmusic.com/)
+
+[Telic Bandcamp](https://telicofficial.bandcamp.com/)
+
+[Audio Micro](http://www.audiomicro.com/)
+
+### Indie Games
+
+[GameJolt](https://gamejolt.com/) 
+
+[Itch.io](https://itch.io/)
+
+### Stock Images
+
+[unsplash](https://www.unsplash.com/) _Free stock images. Please credit the artist when you use these_
+
+[Pixabay](https://pixabay.com/)
+
+[Pexels](https://www.pexels.com/)
+
+[Freeimages](http://www.freeimages.com/)
+
+[Stockio](https://www.stockio.com/)
+
+[Undraw](https://undraw.co/illustrations)
+
+### Software
+
+[Ninite](http://www.ninite.com/)
+
+[Github](https://www.github.com)
+
+### Icons
+
+[Flaticon](http://www.flaticon.com/)
+
+[Iconfinder](https://www.iconfinder.com/)
+
+[Thenounproject](https://thenounproject.com/)
+
+
+### Data
+
+[Quandl](http://www.quandl.com/)
+
+[Barchart](http://www.barchart.com/)
+
+[US Bureau of Economic Analysis](https://www.bea.gov/)
+
+[Project Euclid](http://www.projecteuclid.org/) _Mathematics papers_
+
+[Nasa datasets](https://data.nasa.gov/browse)
+
+[Organization for Economic Cooperation and Development](https://data.oecd.org/)
+
+
+### Development
+
+[Loading.io](https://loading.io/) _Make loading icons_
+
+[Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)
+
+[Placeholder](https://placeholder.com/) _Placeholder images_
+
+[Google Fonts](https://fonts.google.com/)
+
+[Font Awesome](fontawesome.com)
+
+[Open Game Art](https://opengameart.org/) _Game assets_
+
+
+### Other
+
+[Thingiverse](https://thingiverse.com) _3D printer models_
+
+[Archive.org](http://archive.org/) _Music, movies, books, software, etc_
+
+[Cube Craft](http://www.cubeecraft.com/) _Paper models_
+
+[Hubble Space Telescope](https://www.spacetelescope.org/images/archive/top100/) _Top 100 images_
+
+[Galbadia Hotel](http://gh.ffshrine.org/) _Video game soundtracks_
+
+[Myabandonware](www.myabandonware.com) _Abandoned Games_
+
+[the-eye](https://the-eye.eu) _Archive project (old books, games, websites, music, etc)_
 
 -----------
 
