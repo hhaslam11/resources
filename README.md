@@ -13,10 +13,6 @@ Personal favourites :)
 
 [Technical Details a Programmer of a Web Application Should Know](https://softwareengineering.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before) _An extensive list of things any web developer should be aware of_
 
-[Airbnb's Javascript Style Guide](https://github.com/airbnb/javascript)
-
-[Astral](https://app.astralapp.com) _Organize and tag your Github stars_
-
 -----------
 
 ## Programming Docs, Guides, Cheatsheets, and Learning Resources
@@ -255,7 +251,7 @@ Personal favourites :)
 [Open Source CS Degree](https://github.com/ForrestKnight/open-source-cs)
 
 ### Physical
-[Lighthouse Labs](https://www.lighthouselabs.ca/) _I can personally vouch for this school. They offer great courses and bootcamps._
+[Lighthouse Labs](https://www.lighthouselabs.ca/)
 
 [Codecore](https://codecore.ca/)
 
